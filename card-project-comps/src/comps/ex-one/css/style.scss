@@ -1,0 +1,26 @@
+//////////////EX ONE////////////////////////
+.app-container {
+  width: 318px;
+  background-color: rgb(26, 27, 33);
+  color: white;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.footer {
+  background-color: #161619;
+  display: flex;
+  justify-content: center;
+  img {
+    padding: 10px;
+  }
+}
+h6{
+    color: #F3BF99;
+}
+p{
+  font-size: 12px;
+}
+
